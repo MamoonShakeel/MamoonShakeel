@@ -2,6 +2,7 @@
 <h3 align="center">A Computer Science Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
+
 - 🔭 I’m currently working on **Automation project**
 
 - 🌱 I’m currently learning **Selenium**
@@ -14,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mamoon-shakeel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mamoon-shakeel/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//mamoon-shakeel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/mamoon-shakeel/" height="30" width="40" /></a>
 <a href="https://instagram.com/_momin_shakeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_momin_shakeel" height="30" width="40" /></a>
 </p>
 
