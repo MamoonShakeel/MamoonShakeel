@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **automation related projects**
 
-- 💬 Ask me about **DevOps, Quality Assurance**
+- 💬 Ask me about **Backend, DevOps, Quality Assurance**
 
 - 📫 How to reach me **mamoonshakeel70@gmail.com**
 
